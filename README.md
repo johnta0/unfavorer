@@ -13,4 +13,9 @@ export TW_ACCESS_TOKEN=YOUR_ACCESS_TOKEN
 export TW_ACCESS_TOKEN_SECRET=YOUR_ACCESS_TOKEN
 ```
 
+and run:
+
+```
+$ yarn start // or $ npm run start
+```
 
